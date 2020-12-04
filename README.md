@@ -2,6 +2,6 @@
 
 ![HocheolJang's github stats](https://github-readme-stats.vercel.app/api?username=HocheolJang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HocheolJang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![HocheolJang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HocheolJang)
+![HocheolJang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HocheolJang&v=2)
 
 - 🌱 I’m currently learning React, JavaScript
