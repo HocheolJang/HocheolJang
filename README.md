@@ -37,6 +37,9 @@ So you have to trust that the dots will somehow connect in your future. - Steve 
     <span>
       <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
     </span>
+  </span>
+  <br>
+  <span>
     <span>
       <img src="https://img.shields.io/badge/SASS-FFBE00?style=flat&logo=Sass&logoColor=black"/>
     </span>
@@ -61,7 +64,7 @@ So you have to trust that the dots will somehow connect in your future. - Steve 
   <a href="https://www.instagram.com/hocheol_zhang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hocheol_zhang/"/></a>&nbsp
   <a href="mailto:daaan@0415@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daaan@0415@gmail.com"/></a><br>
 </p>
-여기에 제 [이력서](https://bit.ly/33SDZe7)도 있습니다 ! 👋👋👋
+여기에 제 [이력서](https://bit.ly/33SDZe7) 도 있습니다 ! 👋👋👋
 
 <br>
 
