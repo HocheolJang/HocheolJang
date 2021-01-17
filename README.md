@@ -69,9 +69,8 @@
 
 ---
 
-<span align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HocheolJang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</span>
+
 
 <img align="left" alt="HocheolJang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HocheolJang&show_icons=true&hide_border=true" />
 
