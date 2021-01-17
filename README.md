@@ -13,17 +13,6 @@
 
 ---
 
-### Connecting the dots
-> So you have to trust that the dots will somehow connect in your future. - Steve Jobs -
-
-  - Front-end Programmer (2021. 00 ~ )
-
-우아한형제들 (2016 ~ 2020)
-  - Marketer (2017. 11 ~ 2020. 04)
-  - Salesman (2016. 07 ~ 2017. 11)
-
----
-
 ### Technical stack:
 
 <p>
