@@ -11,6 +11,8 @@
 - '삶은 순간의 합이다' 라는 문장을 가장 좋아합니다.
 - 사용자의 경험을 집요하게 고민하는 프론트엔드 개발자를 지향합니다.
 
+---
+
 ### Connecting the dots
 So you have to trust that the dots will somehow connect in your future. - Steve Jobs -
 
@@ -19,6 +21,8 @@ So you have to trust that the dots will somehow connect in your future. - Steve 
 우아한형제들 (2016 ~ 2020)
   - Marketer (2017. 11 ~ 2020. 04)
   - Salesman (2016. 07 ~ 2017. 11)
+
+---
 
 ### Technical stack:
 
@@ -52,11 +56,11 @@ So you have to trust that the dots will somehow connect in your future. - Steve 
 
 ### Contact me !
 
-<p align="center">
+<p align="left">
   <a href="https://hocheoljang.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hocheoljang.github.io/"/></a>&nbsp
   <a href="https://www.instagram.com/hocheol_zhang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hocheol_zhang/"/></a>&nbsp
   <a href="mailto:daaan@0415@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daaan@0415@gmail.com"/></a><br>
-  [여기에 제 이력서도 있습니다 ! ](https://bit.ly/33SDZe7)
+  [여기에 제 이력서도 있습니다 !](https://bit.ly/33SDZe7)
 </p>
 <br>
 
