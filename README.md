@@ -69,8 +69,8 @@
 
 ---
 
-<img align="left" alt="HocheolJang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HocheolJang&show_icons=true&hide_border=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HocheolJang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="HocheolJang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HocheolJang&show_icons=true&hide_border=true" />
 
 ![HocheolJang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HocheolJang&v=2)
 
