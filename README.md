@@ -14,7 +14,7 @@
 ---
 
 ### Connecting the dots
-So you have to trust that the dots will somehow connect in your future. - Steve Jobs -
+> So you have to trust that the dots will somehow connect in your future. - Steve Jobs -
 
   - Front-end Programmer (2021. 00 ~ )
 
