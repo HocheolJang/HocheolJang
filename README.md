@@ -60,8 +60,9 @@ So you have to trust that the dots will somehow connect in your future. - Steve 
   <a href="https://hocheoljang.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hocheoljang.github.io/"/></a>&nbsp
   <a href="https://www.instagram.com/hocheol_zhang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hocheol_zhang/"/></a>&nbsp
   <a href="mailto:daaan@0415@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daaan@0415@gmail.com"/></a><br>
-  [여기에 제 이력서도 있습니다 !](https://bit.ly/33SDZe7)
 </p>
+여기에 제 [이력서](https://bit.ly/33SDZe7)도 있습니다 ! 👋👋👋
+
 <br>
 
 ---
