@@ -20,6 +20,12 @@
     <span>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
     </span>
+        <span>
+      <img src="https://img.shields.io/badge/Vue-20232A?style=flat&logo=Vue&logoColor=61DAFB"/>
+    </span>
+            <span>
+      <img src="https://img.shields.io/badge/VueJS-20232A?style=flat&logo=VueJS&logoColor=61DAFB"/>
+    </span>
     <span>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
     </span>
