@@ -20,11 +20,8 @@
     <span>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
     </span>
-        <span>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    </span>
-            <span>
-      <img src="https://img.shields.io/badge/Vue.js-20232A?style=flat&logo=Vue.js&logoColor=61DAFB"/>
+    <span>
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=Vue.js&logoColor=4FC08D"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
