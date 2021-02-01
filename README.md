@@ -24,19 +24,22 @@
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=Vue.js&logoColor=4FC08D"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
     </span>
   </span>
   <br>
   <span>
     <span>
+      <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/> 
+    </span>
+    <span>
       <img src="https://img.shields.io/badge/SASS-FFBE00?style=flat&logo=Sass&logoColor=black"/>
     </span>
     <span>
-      <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
     </span>
     <span>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
