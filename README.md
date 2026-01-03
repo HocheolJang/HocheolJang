@@ -62,10 +62,4 @@
   <a href="mailto:daaan@0415@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daaan@0415@gmail.com"/></a><br>
 </p>
 
-<br>
-
----
-<img align="left" alt="HocheolJang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HocheolJang&show_icons=true&hide_border=true" />
-
-![HocheolJang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HocheolJang&v=2)
 
